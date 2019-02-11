@@ -1,4 +1,4 @@
-###### Gaol:
+###### Goal:
 Defining the objective function and optimizing it.
 
 ###### Implementation:
